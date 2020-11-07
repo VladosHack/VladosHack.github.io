@@ -38,6 +38,7 @@
         bottom: 0;
         width: 100%;
         height: 145px;
+        position:absolute;
         }
         .nav{
         background-color:#7aa4ff;
