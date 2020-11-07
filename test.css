@@ -44,7 +44,8 @@
         width:1239px;
         height:475px;
         }
-@media(max-width:600px;){
-    .continer{
-    marker-left:0em; 
-    }
+        @media(max-width:600px;){
+        footer{
+        width:100%;
+        bottom:0px;
+        }
