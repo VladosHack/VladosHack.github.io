@@ -46,7 +46,7 @@
         position:absolute;
         margin-top:145px;
         }
-        @media(max-width:730px){
+        @media(max-width:1000px){
         header{
         background-color:pink;
         }
