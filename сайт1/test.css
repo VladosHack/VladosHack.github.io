@@ -4,7 +4,7 @@
         header{
         width:100%;
         height:145px;
-        background-color:pink;
+        background-color:#333333;
         position:absolute;
         }
         .menu45{
@@ -41,6 +41,11 @@
         }
         .nav{
         background-color:#7aa4ff;
-        width:1239px;
-        height:475px;
+        width:1177px;
+        height:360px;
+        position:absolute;
+        margin-top:145px;
+        }
+        @media(max-width:600px){
+        }
         }
