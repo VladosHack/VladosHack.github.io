@@ -46,6 +46,6 @@
         }
         @media(max-width:600px){
             header{
-                width:720px;
+                margin:0px;
             }
         }
