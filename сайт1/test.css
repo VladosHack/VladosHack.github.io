@@ -46,8 +46,8 @@
         position:absolute;
         margin-top:145px;
         }
-        @media(max-width:720px){
+        @media(max-width:700px){
         header{
-        width:720px;
+        background-colorpink;
         }
         }
