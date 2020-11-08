@@ -44,3 +44,7 @@
         width:1239px;
         height:475px;
         }
+        @media(max-width:600px;){
+        header{
+        width:100%;
+        }
