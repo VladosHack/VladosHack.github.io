@@ -46,6 +46,8 @@
         position:absolute;
         margin-top:145px;
         }
-        @media(max-width:600px){
+        @media(max-width:500px){
+        header{
+        width:720px;
         }
         }
