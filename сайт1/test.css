@@ -88,8 +88,11 @@
         header{
         width:1239px;
         }
+        .continer{
+        margin-left:180px;
+        }
         .nav{
-        height:270px;
+        height:293px;
         }
         footer{
         width:1239px;
