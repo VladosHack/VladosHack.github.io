@@ -46,11 +46,21 @@
         position:absolute;
         margin-top:145px;
         }
-        @media(max-width:1000px){
+        @media(max-width:600px){
         .nav{
-        height:1375px;
+        height:285px;
+        width:448px;
         }
         footer{
-        width:720px;
+        width:448px;
+        }
+        .continer{
+        margin-left:5px;       
+        }
+        .continer li{
+        margin:10px;
+        }
+        header{
+        width:448px;
         }
 }
