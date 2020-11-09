@@ -98,7 +98,7 @@
         width:1239px;
         }
         }
-        @media(max-height:500px){
+        @media(max-height:1600px){
         header{
         background-color:pink;
         }
