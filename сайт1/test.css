@@ -1,4 +1,4 @@
-        *{ 
+ *{ 
         margin:0px;
         }
         header{
@@ -47,22 +47,9 @@
         position:absolute;
         margin-top:145px;
         }
-        @media(max-width:400px){
+        @media(max-height:2000px){
         .nav{
-        height:600px;
-        width:449px;
-        }
-        footer{
-        width:449px;
-        }
-        .continer{
-        margin-left:5px;       
-        }
-        .continer li{
-        margin:10px;
-        }
-        header{
-        width:449px;
+        height:1000px;
         }
         }
         @media(min-width:401px) and (max-width:720px){
@@ -75,6 +62,7 @@
         }
         footer{
         width:720px;
+        margin-bottom:0px;
         }
         .continer{
         margin-left:5px;
