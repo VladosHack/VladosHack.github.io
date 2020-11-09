@@ -47,9 +47,6 @@
         margin-top:145px;
         }
         @media(max-width:1000px){
-        header{
-        background-color:#333333;
-        }
         .nav{
         height:1375px;
         }
