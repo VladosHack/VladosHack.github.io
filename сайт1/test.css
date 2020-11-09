@@ -98,21 +98,3 @@
         width:1239px;
         }
         }
-        @media(max-width:400px){
-        .nav{
-        height:1000px;
-        width:449px;
-        }
-        footer{
-        width:449px;
-        }
-        .continer{
-        margin-left:5px;       
-        }
-        .continer li{
-        margin:10px;
-        }
-        header{
-        width:449px;
-        }
-        }
