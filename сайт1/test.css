@@ -48,26 +48,8 @@
         position:absolute;
         margin-top:145px;
         }
-        @media(max-width:600px){
-        .nav{
-        height:310px;
-        width:449px;
-        }
-        footer{
-        width:449px;
-        }
-        .continer{
-        margin-left:5px;       
-        }
-        .continer li{
-        margin:10px;
-        }
-        header{
-        width:449px;
-        }
-        }
         @media(max-width:400px){
         header{
-        width:400px;
+        background-color:pink;
         }
         }
