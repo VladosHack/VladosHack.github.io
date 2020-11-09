@@ -98,8 +98,21 @@
         width:1239px;
         }
         }
-        @media(max-height:1600px){
+        @media(max-width:400px){
+        .nav{
+        height:310px;
+        width:449px;
+        }
+        footer{
+        width:449px;
+        }
+        .continer{
+        margin-left:5px;       
+        }
+        .continer li{
+        margin:10px;
+        }
         header{
-        background-color:pink;
+        width:449px;
         }
         }
