@@ -48,8 +48,50 @@
         position:absolute;
         margin-top:145px;
         }
-        @media(max-width:400px){
+        @media(max-width:450px){
+        .nav{
+        height:310px;
+        width:449px;
+        }
+        footer{
+        width:449px;
+        }
+        .continer{
+        margin-left:5px;       
+        }
+        .continer li{
+        margin:10px;
+        }
         header{
-        background-color:pink;
+        width:449px;
+        }
+        }
+        @media(min-width:451px) and (max-width:600px){
+        .nav{
+        width:599px;
+        height:310px;
+        }
+        header{
+        width:599px;
+        }
+        footer{
+        width:599px;
+        }
+        .continer{
+        margin-left:5px;
+        }
+        .continer li{
+        margin:30px;
+        }
+        }
+        @media(min-width:601px) and (max-width:1200px){
+        header{
+        width:1239px;
+        }
+        .nav{
+        height:270px;
+        }
+        footer{
+        width:1239px;
         }
         }
