@@ -48,7 +48,7 @@
         }
         @media(max-width:1000px){
         header{
-        background-color:pink;
+        background-color:#333333;
         }
         .nav{
         height:1375px;
