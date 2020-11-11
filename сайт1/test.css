@@ -45,7 +45,7 @@
         position:absolute;
         bottom: 0;
         }
-        @media(max-width:722px){
+        @media(max-width:400px){
         header{
         background-color:pink;
         }
@@ -92,3 +92,4 @@
         height:500px;
         }
         }
+        
