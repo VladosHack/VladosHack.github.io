@@ -47,7 +47,7 @@
         }
         @media(max-width:450px){
         .nav{
-        width:432px;
+        width:449px;
         }
         .continer{
         margin-left:5px;
@@ -56,12 +56,25 @@
         margin:10px;
         }
         }
-        max-height: 650px {
+        @media(max-width:600px){
+        .continer{
+        margin-left:5px;
+        }
+        .continer li{
+        margin:10px;
+        }
+        }
+        @media(max-width:1000px){
+        .continer{
+        margin-left:50px;
+        }
+        }
+        max-height:650px{
         .nav {
         height: 550px;
         }
         }
-        max-height: 540px {
+        max-height:540px{
         .nav {
         height: 300px;
         }
