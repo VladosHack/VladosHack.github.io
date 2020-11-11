@@ -83,7 +83,7 @@
         }
         }
         @media(max-height:1580px){
-        nav{
+        .nav{
         height:500px;
         }
         }
