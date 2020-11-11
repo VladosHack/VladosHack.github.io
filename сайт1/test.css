@@ -36,7 +36,7 @@
         .nav{
         background-color:#7aa4ff;
         width:100%;
-        height:500px;
+        height:501px;
         }
         footer{
         background-color:#333333;
@@ -45,7 +45,7 @@
         position:absolute;
         bottom: 0;
         }
-        @media(max-width:400px){
+        @media(max-width:722px){
         header{
         background-color:pink;
         }
@@ -82,7 +82,12 @@
         margin:25px;
         }
         }
-        @media(max-height:1580px){
+        @media(max-height:600px){
+        .nav{
+        height:374px;
+        }
+        }
+        @media(max-width:900px){
         .nav{
         height:500px;
         }
