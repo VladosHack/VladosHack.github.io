@@ -82,13 +82,8 @@
         margin:25px;
         }
         }
-        max-height:650px{
-        .nav {
-        height: 550px;
-        }
-        }
-        max-height:540px{
-        .nav {
-        height: 300px;
+        @media(max-height:1580px){
+        nav{
+        height:500px;
         }
         }
