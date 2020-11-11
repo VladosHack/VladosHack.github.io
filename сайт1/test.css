@@ -45,6 +45,11 @@
         position:absolute;
         bottom: 0;
         }
+        @media(max-width:300px){
+        header{
+        background-color:pink;
+        }
+        }
         @media(max-width:450px){
         .nav{
         width:449px;
@@ -64,17 +69,17 @@
         margin:10px;
         }
         }
-        @media(min-width:601px) and (max-width:1000px){
+        @media(min-width:601px) and (max-width:900px){
         .continer{
-        margin-left:80px;
+        margin-left:100px;
         }
         }
-        @media(min-width:1001px) and (max-width:1240px){
+        @media(min-width:901px) and (max-width:1240px){
         .continer{
-        margin-left:325px;
+        margin-left:300px;
         }
         .continer li{
-        margin:50px;
+        margin:25px;
         }
         }
         max-height:650px{
