@@ -45,7 +45,7 @@
         position:absolute;
         bottom: 0;
         }
-        @media(max-width:300px){
+        @media(max-width:400px){
         header{
         background-color:pink;
         }
@@ -74,7 +74,7 @@
         margin-left:100px;
         }
         }
-        @media(min-width:901px) and (max-width:1240px){
+        @media(min-width:901px) and (max-width:1235px){
         .continer{
         margin-left:300px;
         }
