@@ -82,14 +82,8 @@
         margin:25px;
         }
         }
-        @media(max-height:600px){
+        @media(max-height:1531px){
         .nav{
-        height:374px;
+        height:9000px;
         }
         }
-        @media(max-width:900px){
-        .nav{
-        height:500px;
-        }
-        }
-        
